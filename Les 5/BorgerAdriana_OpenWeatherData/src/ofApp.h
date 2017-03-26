@@ -15,4 +15,23 @@ class ofApp : public ofBaseApp{
         void getData();
 
         ofxJSONElement json;
+
+		ofImage clearDay;
+		ofImage clearNight;
+		ofImage clouds;
+		ofImage rain;
+
+		int selectedMoment;
+		int timeInt;
+		int elementCount;
+		bool nighttime;
+		bool daytime;
+		ofColor textColor;
+		string dateAndTime;
+		string weather;
+		string time;
+		string date;
+		ofTrueTypeFont digitalClock;
+		ofTrueTypeFont dateText;
+		
 };
