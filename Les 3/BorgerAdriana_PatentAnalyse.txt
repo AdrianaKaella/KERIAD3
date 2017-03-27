@@ -1,0 +1,19 @@
+PATENTS VIEW, THE REAL DIFFERENCE BETWEEN APPLE AND GOOGLE - REFLECTIE
+
+ADRIANA BORGER
+KERIAD2
+3014701
+
+
+Het artikel verteld over de relaties tussen patent uitvinders, en vergelijkt hierbij die van Google met die van Apple.
+Hierover wordt over het algemeen heel objectief gesproken; veel feiten, cijfers en pure data. Echter worden er ook een
+aantal aannames gemaakt. Zo wordt er bijvoorbeeld gesuggesteerd dat er bij Apple meer sprake is van verbondenheid en
+samenwerking dan bij Google, puur omdat de data aangeeft dat er meer patenten worden gemaakt over minder uitvinders. 
+Dit kan echter ook juist het tegendeel bewijzen. Gezien er bij Google juist meer in kleinere teams wordt gewerkt, geeft
+dit wellicht juist een persoonlijkere sfeer tussen de teamleden. Het zou zomaar kunnen zijn dat door het grotere formaat
+groepen bij Apple, de teams juist minder verbonden aanvoelen.
+
+De gebruikte visualisatie is speciaal voor het artikel gemaakt en daarom niet (gemakkelijk) na te maken. Op de tool is te
+zoeken op relaties op locatie, vergelijkingen tussen uitviners en rechtverkrijgenden, en los op uitvinders, rechtverkrij-
+genden, patenten en locaties. Om de visualisatie na te maken heb je echter de optie nodig om op bedrijf te zoeken en 
+daarin de relatie tussen uitvinders (en rechtverkrijgende) weer te kunnen geven. 
